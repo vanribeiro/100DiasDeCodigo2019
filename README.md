@@ -1,6 +1,6 @@
-#100 Dias de Código 2019
+# 100 Dias de Código 2019
 
-##Planejamento:
+## Planejamento:
 
 Dias       | Descrição
 -----------|---------
