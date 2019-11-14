@@ -30,3 +30,5 @@ Até porque pretendo trabalhar conceitos como mobile first e web design responsi
 Nesse período, também planejo retomar um curso de JavaScrip que estava parado. Pretendo fazê-lo 02 vezes por semana, até concluí-lo.
 
 (Planos sujeitos a alterações e de acordo com a necessidade).
+
+## Atualizações:
