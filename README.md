@@ -32,3 +32,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 (Planos sujeitos a alterações e de acordo com a necessidade).
 
 ## Atualizações:
+
+**Dia** | **Descrição**
+:--------:|--------------
+**001**| Pensando no que eu poderia fazer de legal no meu portfólio, pesquisando uma coisa, encontrei outra e acabei aprendendo um pouco sobre efeito duotone com CSS e SVG.
