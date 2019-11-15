@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Efeito Duotone</title>
+</head>
+<body>
+    <!--Aprendi a partir de um tutorial do canal YT Ricardo Sanches.
+        Link do vídeo: https://www.youtube.com/watch?v=-kZF4V__tWE
+    -->
+    <svg class="duotone-filter" xmlns="http://www.w3.org/2000/svg">
+        <filter id="duotone-1">
+            <feColorMatrix type="matrix" result="gray"
+                values="1 0 0 0
+                        1 0 0 0
+                        1 0 0 0
+                        0 0 1 0">
+                </feColorMatrix>
+            
+            <feComponentTransfer color-interpolation-filters="sRGB" result="duotone">
+                <feFuncR type="table" tablevalues="0.1607843137254902 1"></feFuncR>
+                <feFuncG type="table" tablevalues="0.0392156862745098 0.4862745098039216"></feFuncG>
+                <feFuncB type="table" tablevalues="0.3490196078431373 0"></feFuncB>
+                <feFuncA type="table" tablevalues="0 1"></feFuncA>
+            </feComponentTransfer>
+        </filter>
+    </svg>
+
+    <svg class="duotone-filter" xmlns="http://www.w3.org/2000/svg">
+        <filter id="duotone-yellow-purple">
+            <feColorMatrix type="matrix" result="gray"
+                values="1 0 0 0
+                        1 0 0 0
+                        1 0 0 0
+                        0 0 1 0">
+            </feColorMatrix>
+
+            <feComponentTransfer color-interpolation-filters="sRGB" result="duotone">
+                <feFuncR type="table" tablevalues="1 o.0309803921568627‬‬‬"></feFuncR>
+                <feFuncG type="table" tablevalues="‭0.8431372549019608‬‬ 0.2423529411764706"></feFuncG>
+                <feFuncB type="table" tablevalues="‭‭0‬ 0.2423529411764706"></feFuncB>
+                <feFuncA type="table" tablevalues="0 1"></feFuncA>
+            </feComponentTransfer>
+        </filter>
+    </svg>
+
+    <div class="container"></div>
+    <div class="container-2"></div>
+    
+</body>
+</html>
