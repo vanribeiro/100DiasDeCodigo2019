@@ -36,3 +36,4 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **Dia** | **Descrição**
 :--------:|--------------
 **001**| Pensando no que eu poderia fazer de legal no meu portfólio, acabei pesquisando uma coisa, encontrando outra e acabei aprendendo um pouco sobre efeito duotone com CSS e SVG.
+**002**| Apenas fiz um código simples como ideia para o meu portfólio. Revi algumas propriedades CSS também.
