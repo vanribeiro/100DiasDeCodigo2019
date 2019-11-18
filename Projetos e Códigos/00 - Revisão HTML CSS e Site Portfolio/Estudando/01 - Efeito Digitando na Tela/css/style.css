@@ -5,21 +5,26 @@ body{
     margin: 0;
 }
 
+.first-head-page{
+    padding-top: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
 .first-page{
     padding: 0;
     height: 100vh;
     width: 100vw;
     background-color: #252525;
     background-size: cover;
-    position: absolute;
 }
 
-.page-head{
+.page-heads{
     font-family: 'Special Elite', cursive;
     color: #ebebeb;
-    position: absolute;
-    top: 40%;
-    left: 45%
 }
 
 .page-subtitle{
@@ -43,4 +48,49 @@ body{
     50%{
         opacity: 0;
     }
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+
+@media(min-width: 1200px){
+
+    .first-page{
+        height: 100vh;
+        width: 100vw;
+    }
+
+    .first-head-page{
+        top: 10%;
+        left: 20%;
+        position: absolute;
+    }
+
+    .page-heads{
+        padding-top: 35%;
+    }
+
+    .page-title{
+        font-size: 3.5em;
+        padding: 0;
+    }
+
+    .page-subtitle{
+        font-size: 1.5em;
+        margin-top: -35px;
+    }
+
+    .column-1{
+        width: 40%;
+        float: left;
+    }
+
+    .column-2{
+        width: 60%;
+        float: right;
+    }
+
 }
