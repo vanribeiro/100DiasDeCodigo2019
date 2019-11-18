@@ -34,7 +34,8 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 ## Atualizações:
 
 **Dia** | **Descrição**
-:--------:|--------------
+:------:|--------------
 **001**| Pensando no que eu poderia fazer de legal no meu portfólio, pesquisei uma coisa, encontrei outra e acabei aprendendo um pouco sobre efeito duotone com CSS e SVG.
 **002**| Apenas fiz um código simples como ideia para o meu portfólio e revi algumas propriedades CSS também. 
 **003**| Sigo fazendo revisões sobre Front-End. Aprendi como criar um efeito de máquina de escrever usando HTML, CSS e JavaScript. Estou pensando em usar esse efeito no meu site portfólio.
+**004**| Codifiquei pouco, apenas fiz algumas revisões de Media Queries. 
