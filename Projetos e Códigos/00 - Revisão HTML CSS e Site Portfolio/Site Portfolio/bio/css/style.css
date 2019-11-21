@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Ubuntu:300&display=swap');
+
+*{
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+    color: #404040;
+    font-size: 1em;
+    margin: 0;
+}
+
+body{
+    background-color: #f5f5f5;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.back-to-home{
+    font-size: 3em;
+}
+
+.bold, .section-subtitle{
+    font-weight: bold;
+}
+
+.bio-title{
+    font-size: 3.5em;
+}
+
+.bio-title, .section-title{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.section-title{
+    font-size: 2em;
+}
+
+.bio-summary{
+    font-size: 1.1em;
+    padding-bottom: 15px;
+}
+
+.subtitle-italic{
+    font-style: italic;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.education, .projects, 
+.skills, .languages, .work-experience{
+    padding-bottom: 15px;
+} 
+
+@media(min-width: 1200px){
+
+    aside{
+        float: left;
+        width: 20%;
+    }
+
+    main{
+        float: right;
+        width: 70%;
+    }
+    
+    
+}
