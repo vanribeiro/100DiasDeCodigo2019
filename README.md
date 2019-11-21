@@ -39,3 +39,5 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **002**| Apenas fiz um código simples como ideia para o meu portfólio e revi algumas propriedades CSS também. 
 **003**| Sigo fazendo revisões sobre Front-End. Aprendi como criar um efeito de máquina de escrever usando HTML, CSS e JavaScript. Estou pensando em usar esse efeito no meu site portfólio.
 **004**| Codifiquei pouco. Apenas revi um pouco sobre Media Queries. 
+**005**| Comecei a trabalhar no meu site portólio. Para essa versão, vou utilizar uma outra estrutura de página. Decidi também, para treinar, refazer meu currículo utilizando HTML e CSS. Talvez eu use JavaScript para um efeito que quero conseguir.
+
