@@ -83,13 +83,6 @@ main{
     }
 }
 
-@media(min-width: 900px){
-
-    .img-fluid{
-        max-width: 50%;
-    }
-}
-
 @media(min-width: 1200px){
 
     aside{
