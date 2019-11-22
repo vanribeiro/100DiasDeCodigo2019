@@ -17,7 +17,7 @@ a:link{
 }
 
 .back-to-home{
-    font-size: 3em;
+    font-size: 2.5em;
 }
 
 .bold, .section-subtitle{
@@ -26,6 +26,9 @@ a:link{
 
 .bio-title{
     font-size: 3.5em;
+    border-bottom: #404040 3px solid;
+    margin-bottom: 15px;
+    padding: 0;
 }
 
 .bio-title, .section-title{
@@ -46,14 +49,46 @@ a:link{
 }
 
 .container{
-    width: 80%;
+    width: 70%;
     margin: auto;
 }
 
 .education, .projects, 
-.skills, .languages, .work-experience{
+.skills, .languages, .work-experience, 
+.bio-subtitle, .bio{
     padding-bottom: 15px;
 } 
+
+.sub-section{
+    padding-bottom: 10px;
+}
+
+.section-subtitle{
+    padding-bottom: 8px;
+}
+
+main{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.img-fluid{
+    max-width: 100%;
+}
+
+@media(max-width: 600px){
+
+    .img-fluid{
+        max-width: 50%;
+    }
+}
+
+@media(min-width: 900px){
+
+    .img-fluid{
+        max-width: 50%;
+    }
+}
 
 @media(min-width: 1200px){
 
@@ -64,8 +99,48 @@ a:link{
 
     main{
         float: right;
-        width: 70%;
+        width: 65%;
     }
     
+    main{
+        border-left: #404040 3px solid;
+        padding-left: 40px;
+    }
     
+}
+
+@media print{
+    *{
+        background: transparent;
+        color: #000000;
+    }
+
+    .back-home{
+        display: none;
+    }
+
+    .container{
+        width: 100%;
+    }
+
+    aside{
+        float: left;
+        width: 20%;
+    }
+
+    main{
+        float: right;
+        width: 65%;
+        border-left: #000000 3px solid;
+        padding-left: 20px;
+        padding-bottom: 0;
+    }
+
+    .bio, .contact{
+        font-size: 0.9em;
+    }
+    
+    .section-title{
+        font-size: 1.5em;
+    }
 }
