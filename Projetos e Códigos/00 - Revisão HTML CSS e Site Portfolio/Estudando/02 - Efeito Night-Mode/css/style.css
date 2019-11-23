@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Advent+Pro|Bebas+Neue&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+body{
+    background-color: #C28C6B;
+    color: #1F0702;
+    transition: 0.5s;
+}
+
+body.light-mode{
+    background-color: #C28C6B;
+    color: #1F0702;
+    transition: 0.5s;
+}
+
+body.dark-mode{
+    background-color: #1F0702;
+    color: #C28C6B;
+}
+
+/*
+    Botão Switch 
+    Link do post onde aprendi: https://willianjusten.com.br/criando-um-switch-button-com-css/
+*/
+
+.switch-btn{
+    float: right;
+    padding: 30px;
+}
+
+.switch{
+    position: absolute;
+    margin-left: -9999px;
+    visibility: hidden;
+}
+
+.switch + label{
+    display: block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+}
+
+.switch--shadow + label{
+    padding: 2px;
+    width: 60px;
+    height: 30px;
+    background-color: #ddddddb6;
+    border-radius: 30px;
+}
+
+.switch--shadow + label:before,
+.switch--shadow + label:after{
+    display: block;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    bottom: 1px;
+    content: "";
+}
+
+.switch--shadow + label:before{
+    right: 1px;
+    background-color: #ebebebd7;
+    border-radius: 30px;
+    transition: all 0.4s;
+}
+
+.switch--shadow + label:after{
+    width: 32px;
+    height: 32px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 100%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: all 0.4s;
+}
+
+.switch--shadow:checked + label:before{
+    background-color: rgba(133, 53, 26, 0.76);
+}
+
+.switch--shadow:checked + label:after{
+    transform: translateX(30px);
+    background-color: rgba(194, 140, 107, 0.61);
+}
+/*--------------------------------------*/
+.container{
+    width: 75%;
+    margin: auto;
+    padding: 25px 0 25px;
+}
+
+.img-fluid{
+    max-width: 100%;
+}
+
+.title{
+    padding: 10px 0 10px;
+}
+
+p{
+    font-size: 1.3em;
+    padding: 10px 0 10px;
+}
+
+h1{
+    font-size: 3em;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+figcaption{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+@media(min-width: 700px){
+
+    figure{
+        width: 40%;
+        float: left;
+    }
+
+    p{
+        float: right;
+        width: 55%;
+    }
+
+}
+
