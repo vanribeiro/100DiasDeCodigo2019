@@ -7,11 +7,17 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Currículo - Van Ribeiro</title>
 </head>
-<body>
+<body id="body">
     <div class="container">
-        <div class="back-home">
-            <a class="back-to-home" href="https://vanribeiro.github.io/">←</a>
-            <a class="home bold" href="https://vanribeiro.github.io/">Voltar</a>
+        <div class="bar-top">
+            <div class="back-home">
+                <a class="back-to-home" href="https://vanribeiro.github.io/">←</a>
+                <a class="anchor-link home bold" href="https://vanribeiro.github.io/">Voltar</a>
+            </div>
+            <div class="switch-button" title="Claro/Escuro">
+                <input type="checkbox" id="switch-btn" class="switch switch-shadow" onclick="changeModeTheme()">
+                <label for="switch-btn"></label>
+            </div>
         </div>
     </div>
     <div class="container">
@@ -105,5 +111,6 @@
             </section>
         </main>
     </div>
+    <script src="js/app.js"></script>
 </body>
 </html>
