@@ -1,4 +1,9 @@
-# 100 Dias de Código - 2019
+# 100 Dias de Código - 2019 (Round 02)
+
+**Ínicio:**  | 14/11/2019
+**Termínio:**| 21/02/2020*
+
+* Previsão de termino.
 
 ## Planejamento:
 
@@ -42,4 +47,4 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **005**| Comecei a trabalhar no meu site portfólio. Para essa versão, vou utilizar uma outra estrutura de página. Decidi também, para treinar, refazer meu currículo utilizando HTML e CSS. Talvez eu use JavaScript para um efeito que quero conseguir ali.
 **006**| Fiz alguns ajustes na página do currículo do portfólio. Pela primeira vez formatei uma página para impressão usando CSS e seu media type print. Gostei. A formatação coube numa única página A4.
 **007** | Eu quero usar o efeito Night-Mode no meu CV. Dando um Google aprendi a fazer e também a colocar um switch button para mudar o tema da página de claro para escuro.
-**008** | Efeito Night-Mode aplicado no meu CV! Apanhei um pouco para ajustar alguns elementos da página, mas, no fim, deu certo.
+**008** | Efeito Night-Mode aplicado no meu CV! Apanhei um pouco para ajustar alguns elementos da página, mas, com uma ajuda do StackOverFlow, no fim, deu certo.
