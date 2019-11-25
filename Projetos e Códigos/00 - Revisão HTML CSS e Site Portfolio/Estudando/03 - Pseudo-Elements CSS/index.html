@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Pseudo-Elementps</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Revisando Pseudo-Elementos do CSS</h1>
+        <p>Um Psedo-Elemento é usado para estilizar <mark>uma parte especifica</mark>  de um elemento. Exemplo:</p>
+        <code>
+            p::first-line{
+                color: #800080;
+            }
+        </code>
+        <p class="paragrafo-1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam, beatae nesciunt magni tempora inventore harum vel consequuntur enim doloribus atque sunt dignissimos minima molestias! Hic facilis aliquam vel impedit temporibus?</p>
+        <h3>Atenção</h3>
+        <p>É preciso saber diferenciar a forma de uso de um Pseudo-Elemento de uma Pseudo-Classe a partir do CSS3, usa-se:</p>
+        <p><strong>:</strong> - Pseudo-Classe</p> 
+        <p><strong>::</strong> - Pseudo-Elemento</p>
+
+        <h2>Mais pseudo-elementos</h2>
+
+        <p><strong>Primeira Letra:</strong> </p>
+        <code>::first-letter</code>
+        <p class="capital-letter">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa odio voluptate, sapiente vero autem ducimus commodi rerum quo quos distinctio. Hic sunt nihil deleniti doloribus assumenda doloremque dolor consequuntur maxime!
+        </p>
+
+        <p><strong>Primeira letra + Primeira Linha:</strong></p>
+        <p class="first-line-letter">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo at recusandae provident dolorem reiciendis veritatis in corrupti minima mollitia ipsa ad consectetur corporis dicta fuga, excepturi eligendi aliquam! Deleniti, ipsam.</p>
+
+        <p><strong>Before</strong></p>
+        <code>::before</code>
+        <p>Insere algum conteúdo <mark>antes</mark> de um conteúdo de um elemento</p>
+        <h4>Lorem Lorem</h4>
+
+        <p><strong>After</strong></p>
+        <code>::after</code>
+        <p>Insere algum conteúdo <mark>depois</mark> de um conteúdo de um elemento.</p>
+        <h6>Lorem Heart</h6>
+
+    </div>
+</body>
+</html>

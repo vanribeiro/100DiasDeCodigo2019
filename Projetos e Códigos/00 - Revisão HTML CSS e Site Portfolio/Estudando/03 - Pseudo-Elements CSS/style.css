@@ -1,0 +1,73 @@
+/*
+* Post W3School: https://www.w3schools.com/css/css_pseudo_elements.asp
+* 
+*/
+
+body{
+    background-color: #ebebeb;
+    color: #404040;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+mark{
+    background-color: #80008079;
+    padding: 5px 0 15x 0;
+}
+
+code{
+    background-color: #404040;
+    padding: 10px;
+    color: yellowgreen;
+    font-size: 1.3em;
+}
+
+/* Trabalhando com Pseudo-Elementos */
+
+.paragrafo-1::first-line{
+    color: #800080;
+    font-weight: bold;
+}
+
+.capital-letter::first-letter{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+    padding: 5px;
+    background-color: #404040;
+    color: #ebebeb;
+    margin: 5px;
+}
+
+.first-line-letter::first-line{
+    color: #ebebeb;
+    background-color: #8000809f
+}
+
+.first-line-letter::first-letter{
+    color: #404040;
+    font-weight: bold;
+}
+
+h4::before{
+    content: url(img/like.png);
+    padding-right: 5px;
+}
+
+h6::after{
+    content: url(img/like.png);
+    padding-left: 5px;
+}
+
+::selection{
+    background-color: #550255;
+    color: #ebebeb;
+}
