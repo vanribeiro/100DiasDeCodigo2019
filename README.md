@@ -1,10 +1,7 @@
 # 100 Dias de Código - 2019 (Round 02)
 
-**Ínicio:**  | 14/11/2019
-
-**Termínio:**| 21/02/2020*
-
-* Previsão de termino.
+**Ínicio:** 14/11/2019
+**Termínio:** 21/02/2020 (_Previsão de termino._)
 
 ## Planejamento:
 
