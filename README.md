@@ -6,8 +6,8 @@
 
 ## Planejamento:
 
-Dias        | Descrição
-:----------:|---------
+Dias      | Descrição
+:--------:|---------
 **01-10** | Revisão básica de HTML e CSS. Vou fazer isso, recriando meu site portfólio.
 **11-15** | Site de Convite de Casamento
 **16-20** | Site de Atração Turística
@@ -47,4 +47,5 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **006**| Fiz alguns ajustes na página do currículo do portfólio. Pela primeira vez formatei uma página para impressão usando CSS e seu media type print. Gostei. A formatação coube numa única página A4.
 **007** | Eu quero usar o efeito Night-Mode no meu CV. Dando um Google aprendi a fazer e também a colocar um switch button para mudar o tema da página de claro para escuro.
 **008** | Efeito Night-Mode aplicado no meu CV! Apanhei um pouco para ajustar alguns elementos da página, mas, com uma ajuda do StackOverFlow, no fim, deu certo.
-**009** | Fiz apenas uma revisão dos Pseudo-Elementos do CSS. 
+**009** | Fiz apenas uma revisão dos Pseudo-Elementos do CSS.
+**010** | Estou começando a aprender um pouco sobre Canvas. Já faz algum tempo que tenho curiosidade de mexer. Sobre o portfólio, resolvi divídi-lo durante o restante dos 100 dias, pois quero fazer algumas coisas diferentes nele.
