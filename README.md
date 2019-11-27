@@ -48,4 +48,4 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **007** | Eu quero usar o efeito Night-Mode no meu CV. Dando um Google aprendi a fazer e também a colocar um switch button para mudar o tema da página de claro para escuro.
 **008** | Efeito Night-Mode aplicado no meu CV! Apanhei um pouco para ajustar alguns elementos da página, mas, com uma ajuda do StackOverFlow, no fim, deu certo.
 **009** | Fiz apenas uma revisão dos Pseudo-Elementos do CSS.
-**010** | Estou começando a aprender um pouco sobre Canvas. Já faz algum tempo que tenho curiosidade de mexer. Sobre o portfólio, resolvi divídi-lo durante o restante dos 100 dias, pois quero fazer algumas coisas diferentes nele.
+**010** | Estou começando a aprender um pouco sobre Canvas. Já faz algum tempo que tenho curiosidade de mexer. Sobre o portfólio, resolvi dividí-lo durante o restante dos 100 dias, pois quero fazer algumas coisas diferentes nele.
