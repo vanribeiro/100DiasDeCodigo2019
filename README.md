@@ -49,3 +49,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **008** | Efeito Night-Mode aplicado no meu CV! Apanhei um pouco para ajustar alguns elementos da página, mas, com uma ajuda do StackOverFlow, no fim, deu certo.
 **009** | Fiz apenas uma revisão dos Pseudo-Elementos do CSS.
 **010** | Estou começando a aprender um pouco sobre Canvas. Já faz algum tempo que tenho curiosidade de mexer. Sobre o portfólio, resolvi dividí-lo durante o restante dos 100 dias, pois quero fazer algumas coisas diferentes nele.
+**011** | Por uma necessidade aqui, tive que mudar o foco dos estudos. Mas prossigo revisando e aprendendo coisas legais sobre HTML, CSS e JavaScript. E, em alguns dias, espero eu, retomo meu planejamento!
+**012** | Teste técnico Back-End PHP. Telas de formulários, exibir usuários, entre outros.
+**013** | Continuação do teste. Em breve vou disponibilizar aqui. Preciso ajustar algumas coisas e ideias que tive.
+**014** | Incluí no projeto: uma tela de login e um menu responsivo. Gostei da tela de login. Já do menu, nem tanto. Mas ele funciona! Então, ok! Nos próximos dias vou integrar a tela ao banco de dados.
