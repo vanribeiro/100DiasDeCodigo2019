@@ -53,3 +53,4 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **012** | Teste técnico Back-End PHP. Telas de formulários, exibir usuários, entre outros.
 **013** | Continuação do teste. Em breve vou disponibilizar aqui. Preciso ajustar algumas coisas e ideias que tive.
 **014** | Incluí no projeto: uma tela de login e um menu responsivo. Gostei da tela de login. Já do menu, nem tanto. Mas ele funciona! Então, ok! Nos próximos dias vou integrar a tela ao banco de dados.
+**015** | No projeto dos dias anteriores, inclui uma página 404, responsiva e funcionando.
