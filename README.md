@@ -54,3 +54,4 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **013** | Continuação do teste. Em breve vou disponibilizar aqui. Preciso ajustar algumas coisas e ideias que tive.
 **014** | Incluí no projeto: uma tela de login e um menu responsivo. Gostei da tela de login. Já do menu, nem tanto. Mas ele funciona! Então, ok! Nos próximos dias vou integrar a tela ao banco de dados.
 **015** | No projeto dos dias anteriores, inclui uma página 404, responsiva e funcionando.
+**016** | Continuando o projetinho, tentei arrumar o menu responsivo. Terminou o dia e não consegui que ele funcionasse do jeito certo.
