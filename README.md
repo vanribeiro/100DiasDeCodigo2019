@@ -56,3 +56,4 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **015** | No projeto dos dias anteriores, inclui uma página 404, responsiva e funcionando.
 **016** | Continuando o projetinho, tentei arrumar o menu responsivo. Terminou o dia e não consegui que ele funcionasse do jeito certo.
 **017** | Agora sim! Menu responsivo funcionando! Tela de login também foi integrada ao banco de dados e passa bem. Pelo menos por enquanto.
+**018** | Acrescentei um painel administrativo ao projeto. Ainda não está responsivo, mas gostei do resultado da tela. :-)
