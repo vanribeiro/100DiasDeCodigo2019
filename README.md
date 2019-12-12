@@ -57,3 +57,8 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **016** | Continuando o projetinho, tentei arrumar o menu responsivo. Terminou o dia e não consegui que ele funcionasse do jeito certo.
 **017** | Agora sim! Menu responsivo funcionando! Tela de login também foi integrada ao banco de dados e passa bem. Pelo menos por enquanto.
 **018** | Acrescentei um painel administrativo ao projeto. Ainda não está responsivo, mas gostei do resultado da tela. :-)
+**019** | Acrescentei um painel administrativo ao projeto. Ainda não está responsivo, mas gostei do resultado da tela.
+**020** | Hoje me dei uma folga, mas para não perder o hábito, apenas fiz uma pesquisa sobre como fazer upload de imagens usando #PHP e escrevi poucas linhas de código.
+**021** | Foi um dia corrido e estou cansada. Então apenas pensei numa solução para upload de múltiplas imagens e reorganizei as pastas do código que estava fazendo. Tentei usar MVC. Sem sucesso por enquanto... 
+**022** | Tive problema com um dos arquivos e as variáveis de variáveis do PHP. Com ajuda de um forum, consegui resolver. Valeu comunidade de TI, vocês são D+!
+**023** | Passei um bom temopo num tutorial do [PHPBridge](https://phpbridge.org/intro-to-php/). Aprendi coisas bem legais lá! Recomendo!
