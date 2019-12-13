@@ -61,4 +61,5 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **020** | Hoje me dei uma folga, mas para não perder o hábito, apenas fiz uma pesquisa sobre como fazer upload de imagens usando #PHP e escrevi poucas linhas de código.
 **021** | Foi um dia corrido e estou cansada. Então apenas pensei numa solução para upload de múltiplas imagens e reorganizei as pastas do código que estava fazendo. Tentei usar MVC. Sem sucesso por enquanto... 
 **022** | Tive problema com um dos arquivos e as variáveis de variáveis do PHP. Com ajuda de um forum, consegui resolver. Valeu comunidade de TI, vocês são D+!
-**023** | Passei um bom temopo num tutorial do [PHPBridge](https://phpbridge.org/intro-to-php/). Aprendi coisas bem legais lá! Recomendo!
+**023** | Passei um bom tempo num tutorial do [PHPBridge](https://phpbridge.org/intro-to-php/). Aprendi coisas bem legais lá! Recomendo!
+**024** | Continuei o tutorial do dia 023, estava tudo bonitinho e funcionando até a parte da rota. Algo errado não está certo... Rsrs. Espero conseguir resolver amanhã. A quem se interessar e puder me ajudar, está nesse [link do GitHub](https://github.com/vanribeiro/Aprendendo-php-poo-tutorial-php-bridge). Desde já, eu agradeço! ;-)
