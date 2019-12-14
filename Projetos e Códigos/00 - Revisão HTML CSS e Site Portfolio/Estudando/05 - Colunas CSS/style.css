@@ -1,0 +1,137 @@
+body{
+    background-color: #ebebeb;
+    color: #404040;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 1.3rem;
+    line-height: 1.5em;
+}
+
+.data{
+    font-size: 1.1rem;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #915491;
+    color: #ebebeb;
+    padding: 2px;
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    width: 85%;
+}
+
+.cols{
+    margin: 5px;
+}
+
+.navbar-top h1{
+    text-align: center;
+    color: #404040;
+    font-size: 3rem;
+}
+
+.links a{
+    background-color: #915491;
+    color: #ebebeb;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+
+.navbar-top a{
+    text-decoration: none;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+section, aside{
+    padding: 10px;
+}
+
+
+
+
+@media (max-width: 600px){
+
+    .navbar-top{
+        position: sticky;
+        top: 0;
+        background-color: #ebebeb;
+    }
+    
+    [class*="col-"]{
+        width: 100%;
+    }
+    
+    .row{
+        display: block;
+    }
+
+    .cols{
+        margin: 5px;
+    }
+   
+
+    .links{
+        margin-top: -35px;
+        text-align: center;
+        
+        height: 50px;
+    }
+
+    .box-light{
+        box-shadow: -1px -1px 40px #404040 inset;
+    }
+    
+}
+
+@media(min-width: 601px){
+    .links{
+        position: absolute;
+        top: 10%;
+        left: 50%;
+    }
+
+    .box-light-text{
+        box-shadow: 1px 3px 7px #000000;
+    }
+
+    .cols{
+        margin-bottom: 30px;
+    }
+
+    .navbar-top{
+        border-bottom: 1px #9670969c solid;
+    }
+
+}
