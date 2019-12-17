@@ -1,0 +1,42 @@
+/*
+* Ver depois: https://tableless.com.br/entendendo-sistemas-de-grid-css-do-zero/
+*/
+
+body{
+    padding: 0;
+    margin: 0;
+    color: #404040;
+    background-color: #ebebeb;
+    font-size: 1.1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.col-30{
+    width: 330px;
+    height: 330px;
+    background-color: #b56a7a;
+    box-shadow: #404040 5px 5px 5px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+    position: relative;
+    padding: 15px;
+}
