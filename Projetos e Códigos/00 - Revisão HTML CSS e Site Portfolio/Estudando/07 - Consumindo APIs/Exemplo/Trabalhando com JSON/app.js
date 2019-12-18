@@ -69,7 +69,7 @@ function showHeroes(jsonObj){
 
         myH2.textContent = heroes[i].name;
         myPara1.textContent = 'Secret identity: ' + heroes[i].secretIdentity;
-        myPara2.textContent = 'Age' + heroes[i].age;
+        myPara2.textContent = 'Age: ' + heroes[i].age;
         myPara3.textContent = 'Superpowers:';
 
         var superPowers = heroes[i].powers;

@@ -2,19 +2,55 @@
 * Ver depois: https://tableless.com.br/entendendo-sistemas-de-grid-css-do-zero/
 */
 
-body{
+body, p{
     padding: 0;
     margin: 0;
+}
+
+body{
     color: #404040;
     background-color: #ebebeb;
     font-size: 1.1rem;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0;
+}
+
+h3{
+    font-size: 2em;
 }
 
 h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 4rem;
     text-align: center;
+}
+
+.img-fluid{
+    max-width: 100%;
+    box-shadow: #404040 1px 1px 5px;
+}
+
+.username{
+    margin-top: -40px;
+}
+
+.username::before{
+    content: "@";
+}
+
+.biography{
+    display: flex;
+}
+
+.pic-bio{
+    width: 300px;
+}
+
+.txtBio{
+    width: 100%;
 }
 
 .container{
@@ -40,3 +76,4 @@ footer{
     position: relative;
     padding: 15px;
 }
+
