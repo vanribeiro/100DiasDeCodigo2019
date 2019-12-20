@@ -67,3 +67,5 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **026** | Aprendi o básico de como usar o Figma para design de apps e tirei um tempo para trabalhar em algumas ideias para o meu portfólio e fazer alguns testes usando CSS.
 **027** | Hoje revi consumo de APIs. Quero tentar uma ideia que tive com o Instagram, mas estou tendo dificuldades com a API deles.
 **028** | Problema com a API do Instagram parcialmente resolvido. Consigo ter acesso aos dados do Instagram através do Facebook Graph API, porém não consigo ter acesso direto ao Instagram Graph API.
+**029** | Consegui "settar" as permissões para acesso ao Instagram Graph API, porém ainda não consegui acessar os dados. Então, resolvi deixar isso de lado por um tempo e comecei a trabalhar no design e layout do meu portfólio com Figma.
+**030** | Codifiquei o design e o layout que tinha feito no Figma. Ele está voltado para mobile, por enquanto. Amanhã quero trabalhar na versão tablet e desktop.
