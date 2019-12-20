@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Montserrat&display=swap');
+
+body, p, h1, h2, h3, h4, h5, h6, img{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #404040;
+    color: #404040;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Anton', sans-serif;
+}
+
+.col-1{width: 8.33%;}
+.col-2{width: 16.66%;}
+.col-3{width: 24.99%;}
+.col-4{width: 33.32%;}
+.col-5{width: 41.65%;}
+.col-6{width: 49.98%;}
+.col-7{width: 58.31%;}
+.col-8{width: 66.64%;}
+.col-9{width: 74.97%;}
+.col-10{width: 83.3%;}
+.col-11{width: 91.63%;}
+.col-12{width: 100%;}
+
+.container{
+    width: 90%;
+    margin: auto
+}
+
+footer{
+    color: #ebebeb;
+    text-align: center;
+    position: relative;
+    padding-top: 40px;
+}
+
+a, .menu-icon{
+    text-decoration: none;
+}
+
+.header-page{
+    background-color: #404040;
+    color: #ebebeb;
+    padding: 5px;
+    height: 90px;
+    position: relative;
+    z-index: 2;
+    box-shadow: 2px 2px 15px #404040;
+}
+
+.header-group{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.header-page-title h1{
+    font-size: 3.125em;
+}
+
+.header-page-title p{
+    font-size: 14.5px;
+    margin-top: -10px;
+}
+
+.menu-icon{
+    color: #ebebeb;
+    font-size: 2.5rem;
+}
+
+.logo-img, .header-page-title, .menu-icon{
+    width: 100%;
+}
+
+.txt-logo{
+    font-size: 3rem;
+}
+
+.main{
+    background-color: #ffa574;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 0px 2px 15px #000000;
+}
+
+.short-bio{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.img-bio{
+    border: #ebebeb 3px solid;
+    box-shadow: 2px 4px 6px #404040;
+    border-radius: 50%;
+    height: 50%;
+    width: 100%;
+}
+
+.txt-bio{
+    font-size: 1.1em;
+    line-height: 17px;
+    padding-left: 16px;
+}
+
+.btn-menu{
+    font: 1.25em 'Anton', sans-serif;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    height: 60px;
+    color: #B56A7A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ebebeb;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px #4040407c;
+}
+
+.img-fluid{
+    max-width: 100%;
+}
