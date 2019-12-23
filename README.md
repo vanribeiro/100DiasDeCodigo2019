@@ -69,3 +69,6 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **028** | Problema com a API do Instagram parcialmente resolvido. Consigo ter acesso aos dados do Instagram através do Facebook Graph API, porém não consigo ter acesso direto ao Instagram Graph API.
 **029** | Consegui "settar" as permissões para acesso ao Instagram Graph API, porém ainda não consegui acessar os dados. Então, resolvi deixar isso de lado por um tempo e comecei a trabalhar no design e layout do meu portfólio com Figma.
 **030** | Codifiquei o design e o layout que tinha feito no Figma. Ele está voltado para mobile, por enquanto. Amanhã quero trabalhar na versão tablet e desktop.
+**031** | Foi dia de SQL por aqui. Fiz um modelo conceitual e lógico, codifiquei usando MySQL console e populei a tabela com dados fictícios. Vou usar esse BD para um sistema fictício que pretendo codificar. Treino técnico. 
+**032** | Dia corrido. Só tentei resolver uma questão de JavaScript do @hackerrank sobre tratamento de exceção, que ainda não deu certo, e a usar uma API para pegar o endereço usando o CEP.
+**033** | Questão de JavaScript do @hackerrank do dia de ontem resolvida! Resolvi mais uma de lá, também sobre tratamento de exceções.
