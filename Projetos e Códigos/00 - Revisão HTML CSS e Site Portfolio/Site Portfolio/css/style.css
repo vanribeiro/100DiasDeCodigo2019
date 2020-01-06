@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6{
 .col-12{width: 100%;}
 
 .container{
-    width: 90%;
+    width: 85%;
     margin: auto
 }
 
@@ -44,6 +44,10 @@ a, .menu-icon{
     text-decoration: none;
 }
 
+.link-title{
+    color: #ebebeb;
+}
+
 .header-page{
     background-color: #404040;
     color: #ebebeb;
@@ -55,18 +59,31 @@ a, .menu-icon{
 }
 
 .header-group{
-    display: flex;
-    justify-content: space-around;
+    height: 80px;
     width: 100%;
 }
 
+.logo-img{
+    width: 25%;
+    float: left;
+}
+
+.header-page-title{
+    float: right;
+    text-align: left;
+    width: 74%;
+}
+
 .header-page-title h1{
-    font-size: 3.125em;
+    font-size: 2.5rem;
+    width: 100%;
+    padding-top: 5px;
 }
 
 .header-page-title p{
     font-size: 14.5px;
     margin-top: -10px;
+    line-height: 17px;
 }
 
 .menu-icon{
@@ -74,15 +91,12 @@ a, .menu-icon{
     font-size: 2.5rem;
 }
 
-.logo-img, .header-page-title, .menu-icon{
-    width: 100%;
-}
-
 .txt-logo{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .main{
+    width: 100%;
     background-color: #ffa574;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -100,13 +114,12 @@ a, .menu-icon{
     box-shadow: 2px 4px 6px #404040;
     border-radius: 50%;
     height: 50%;
-    width: 100%;
 }
 
 .txt-bio{
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 17px;
-    padding-left: 16px;
+    margin-left: 18px;
 }
 
 .btn-menu{
