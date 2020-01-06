@@ -77,5 +77,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **036** | Ainda sobre a extensão, eu conseguir implementar a função que permite capitalizar as primeira letras de cada palavra em uma frase. Ainda preciso ajustar para caracteres especiais. Não consegui implementar o botão colar.
 **037** | Trabalhei na função para fazer a contagem dos caracteres. Consegui alguns resultados interessantes, mas ainda preciso ajustar a extensão para funcionar bem.
 **038** | Pensando em algumas melhorias que quero fazer na extensão, retomei a leitura de um livro que estava abandonado. Estou usando [esse repositório](https://github.com/vanribeiro/lendo-o-livro-o-melhor-do-js) para estudar.
+**039** | Codei pouco, mas codei! Sigo lendo e praticando o livro do Crockford sobre #JavaScript. Hoje vi a parte de tratamento de exceções em funções.
+**040** | Resolvendo alguns desafios @hackerrank, aprendi um pouco sobre classes, herança e trabalhar com datas em JS. No livro do Crockford, como ampliar um tipo básico da linguagem.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
