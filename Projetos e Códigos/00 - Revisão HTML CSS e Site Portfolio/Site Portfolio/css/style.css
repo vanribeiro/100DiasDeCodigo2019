@@ -48,16 +48,6 @@ a, .menu-icon{
     color: #ebebeb;
 }
 
-.header-page{
-    background-color: #404040;
-    color: #ebebeb;
-    padding: 5px;
-    height: 90px;
-    position: relative;
-    z-index: 2;
-    box-shadow: 2px 2px 15px #404040;
-}
-
 .header-group{
     height: 80px;
     width: 100%;
@@ -87,12 +77,46 @@ a, .menu-icon{
 }
 
 .menu-icon{
+    width: 100%;
+    height: 60px;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+}
+
+.ham-icon{
+    height: 30px;
+    width: 30px;
+    margin: 15px;
+    float: right;
+}
+
+.close{
+    display: none;
     color: #ebebeb;
-    font-size: 2.5rem;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 15px;
+    text-align: right;
+    position: relative;
+    z-index: 0;
+}
+
+.menu{
+    position: relative;
+    z-index: 0;
+    background-color: #404040;
+    height: 100vw;
+    display: none;
 }
 
 .txt-logo{
     font-size: 2rem;
+}
+
+.ham-icon:hover{
+    cursor: pointer;
+    display: block;
 }
 
 .main{
@@ -120,6 +144,7 @@ a, .menu-icon{
     font-size: 1em;
     line-height: 17px;
     margin-left: 18px;
+    
 }
 
 .btn-menu{
