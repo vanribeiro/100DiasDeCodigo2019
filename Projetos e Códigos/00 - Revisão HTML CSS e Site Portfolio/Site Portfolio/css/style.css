@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Anton|Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton|Bebas+Neue|Montserrat&display=swap');
 
 body, p, h1, h2, h3, h4, h5, h6, img{
     padding: 0;
@@ -11,8 +11,13 @@ body{
     color: #404040;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1{
     font-family: 'Anton', sans-serif;
+}
+
+h2, h3, h4, h5, h6{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
 }
 
 .col-1{width: 8.33%;}
@@ -37,7 +42,12 @@ footer{
     color: #ebebeb;
     text-align: center;
     position: relative;
-    padding-top: 40px;
+    padding: 30px 0 20px;
+}
+
+.footer-link{
+    color: #ebebeb;
+    text-decoration: underline;
 }
 
 a, .menu-icon{
@@ -48,20 +58,27 @@ a, .menu-icon{
     color: #ebebeb;
 }
 
+.link-social-media{
+    color: #404040;
+    text-decoration: underline;
+}
+
 .header-group{
-    height: 80px;
-    width: 100%;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
 }
 
 .logo-img{
-    width: 25%;
+    width: 30%;
     float: left;
 }
 
 .header-page-title{
     float: right;
     text-align: left;
-    width: 74%;
+    width: 65%;
 }
 
 .header-page-title h1{
@@ -71,9 +88,9 @@ a, .menu-icon{
 }
 
 .header-page-title p{
-    font-size: 14.5px;
+    font-size: 15px;
     margin-top: -10px;
-    line-height: 17px;
+    line-height: 15px;
 }
 
 .menu-icon{
@@ -106,12 +123,20 @@ a, .menu-icon{
     position: relative;
     z-index: 0;
     background-color: #404040;
-    height: 100vw;
+    height: 100%;
     display: none;
+    padding-bottom: 50px;
 }
 
 .txt-logo{
     font-size: 2rem;
+}
+
+.title-menu-page{
+    color: #B56A7A;
+    text-shadow: 2px 2px 15px #1a1a1a;
+    padding: 5px;
+    font-size: 2.2rem;
 }
 
 .ham-icon:hover{
@@ -122,9 +147,9 @@ a, .menu-icon{
 .main{
     width: 100%;
     background-color: #ffa574;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 30px;
-    box-shadow: 0px 2px 15px #000000;
+    box-shadow: 0px 2px 15px #1a1a1a;
 }
 
 .short-bio{
@@ -134,17 +159,15 @@ a, .menu-icon{
 }
 
 .img-bio{
-    border: #ebebeb 3px solid;
+    border: #ebebeb 10px solid;
     box-shadow: 2px 4px 6px #404040;
     border-radius: 50%;
     height: 50%;
 }
 
 .txt-bio{
-    font-size: 1em;
-    line-height: 17px;
-    margin-left: 18px;
-    
+    font-size: 1.5em;
+    line-height: 25px;
 }
 
 .btn-menu{
@@ -164,4 +187,214 @@ a, .menu-icon{
 
 .img-fluid{
     max-width: 100%;
+}
+
+.text-title{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.icon-link-social-media{
+    vertical-align: middle;
+}
+
+.camel-icon{
+    padding: 5px;
+}
+
+.intro-txt{
+    text-align: center;
+    padding: 15px 0 15px;
+}
+
+@media only screen and (max-width: 600px){
+
+    .logo{
+        width: 100px;
+        height: 100px;
+    }
+
+    [class*="col-"]{
+        width: 100%;
+    }
+
+    .social-medias{
+        display: none;
+    }
+
+    .short-bio{
+        width: 180px;
+        margin: auto;
+    }
+
+    .subtitle{
+        font-size: 3rem;
+    }
+
+    .txt-bio{
+        font-size: 1.2em;
+        line-height: 25px;
+        padding-top: 5px;
+    }
+
+    .text-title{
+        font-size: 1.6rem;
+        color: #B56A7A;
+        background-color: #404040 ;
+        box-shadow: 1px 1px 10px #1a1a1a;
+        text-shadow: 1px 1px 5px #1a1a1a;
+        padding: 5px;
+        text-align: center;
+        border-radius: 2px;
+    }
+
+    .menu{
+        height: 100%;
+    }
+
+    .icon-link-social-media{
+        vertical-align: middle;
+        padding-left: 5px;
+        padding-bottom: 10px;
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media only screen and (min-width: 601px){
+
+    .social-medias{
+        width: 30%;
+        padding: 25px 0 25px;
+    }
+
+    .social-medias img{
+        width: 30px;
+        height: 30px;
+    }
+
+    .img-bio{
+        height: 100%;
+        width: 100%
+    }
+
+    .home{
+        display: flex;
+        justify-content: space-around;
+        padding: 1% 0 1%;
+    }
+
+    .menu-page{
+        width: 50%;
+        padding: 5% 0 5%;
+    }
+
+    .short-bio{
+        display: block;
+        width: 30%;
+        height: 30%;
+    }
+
+    .short-bio p{
+        margin-top: 50px ;
+    }
+
+    .text-title{
+        color: #B56A7A;
+        background-color: #404040 ;
+        padding: 5px;
+        margin: -5px;
+        box-shadow: 3px 3px 10px #000000;
+        text-shadow: 1px 1px 5px #000000;
+        font-size: 2.5rem;
+    }
+
+    .icon-link-social-media{
+        width: 40px;
+        height: 40px;
+    }
+
+    .row{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 15px 0 15px;
+    }
+
+    .link-group{
+        padding: 15px;
+        text-align: center;
+    }
+
+    .logo-img{
+        width: 20%;
+    } 
+
+    .header-page-title{
+        width: 80%;
+    }
+
+    .logo{
+        height: 100px;
+        width: 100px;
+    }
+
+}
+
+@media only screen and (min-width: 700px){
+
+    .social-medias a{
+        padding: 5px;
+    }
+
+    .logo-img{
+        width: 20%;
+    } 
+
+    .header-page-title{
+        width: 80%;
+    }
+
+    .link-title{
+        width: auto;
+    }
+
+}
+
+@media only screen and (min-width: 950px){
+
+    .social-medias{
+        width: 20%;
+    }
+
+    .logo-img{
+        width: 10%;
+    } 
+
+    .header-page-title{
+        width: 90%;
+    }
+    
+    .last-jobs, .my-social-medias{
+        padding: 5px 5px;
+        border-radius: 5px;
+    }
+}
+
+@media only screen and (min-width: 1000px){
+
+    .content-page{
+        padding-bottom: 15%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .last-jobs, .my-social-medias{
+        background-color: #ebebeb57;
+        box-shadow: #404040 5px 5px 20px;
+        padding: 5px 5px;
+    }
+
+    
+
 }

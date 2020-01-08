@@ -160,7 +160,7 @@ body.light-mode{
 }
 
 main{
-    padding-bottom: 5px;
+    padding-bottom: 5%;
     padding-top: 5px;
     margin-bottom: 5px;
 }
@@ -186,9 +186,6 @@ main{
     main{
         float: right;
         width: 65%;
-    }
-    
-    main{
         border-left: #404040 3px solid;
         padding-left: 40px;
     }
