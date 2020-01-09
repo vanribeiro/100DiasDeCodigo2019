@@ -63,6 +63,11 @@ a, .menu-icon{
     text-decoration: underline;
 }
 
+.header{
+    border-top: #ebebeb 1px dashed;
+    border-bottom: #ebebeb 1px dashed;
+}
+
 .header-group{
     height: 110px;
     display: flex;
@@ -173,16 +178,30 @@ a, .menu-icon{
 .btn-menu{
     font: 1.25em 'Anton', sans-serif;
     text-align: center;
-    width: 100%;
-    margin-top: 20px;
-    height: 60px;
     color: #B56A7A;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-color: #ebebeb;
     border-radius: 5px;
     box-shadow: 0px 4px 4px #4040407c;
+}
+
+.menu-rwd{
+    font: 2rem 'Anton', sans-serif;
+    color: #B56A7A;
+}
+
+.menu-rwd:hover{
+    background-color: #ebebeb;
+    text-shadow: 2px 4px 4px #4040407c;
+}
+
+.menu-rwd, .btn-menu{
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .img-fluid{
@@ -209,13 +228,13 @@ a, .menu-icon{
 
 @media only screen and (max-width: 600px){
 
+    [class*="col-"]{
+        width: 100%;
+    }
+
     .logo{
         width: 100px;
         height: 100px;
-    }
-
-    [class*="col-"]{
-        width: 100%;
     }
 
     .social-medias{
@@ -264,7 +283,7 @@ a, .menu-icon{
 @media only screen and (min-width: 601px){
 
     .social-medias{
-        width: 30%;
+        width: 40%;
         padding: 25px 0 25px;
     }
 
@@ -357,6 +376,10 @@ a, .menu-icon{
 
     .link-title{
         width: auto;
+    }
+
+    .btn-menu:hover{
+        background-color: #404040;
     }
 
 }
