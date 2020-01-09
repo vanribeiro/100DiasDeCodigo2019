@@ -80,6 +80,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **039** | Codei pouco, mas codei! Sigo lendo e praticando o livro do Crockford sobre #JavaScript. Hoje vi a parte de tratamento de exceções em funções.
 **040** | Resolvendo alguns desafios @hackerrank, aprendi um pouco sobre classes, herança e trabalhar com datas em JS. No livro do Crockford, como ampliar um tipo básico da linguagem.
 **041** | Retomei o projeto do meu portfolio. Ainda estou trabalhando na versão mobile do site. Acrescentei um menu responsivo. Ele funciona bem no Chrome, mas dá erro no Firefox.
-**042** | Problema com navegadores resolvido. Também consegui ajustar o layout para desktop e tablet. Falta apenas uma página para concluir. ESpero colocar no ar até o final de semana!
+**042** | Problema com navegadores resolvido. Também consegui ajustar o layout para desktop e tablet. Falta apenas uma página para concluir. Espero colocar no ar até o final de semana!
+**043** | Tentei criar um slideshow para uma das páginas do portfólio, mas não deu muito certo. E fiz alguns ajustes na cores do menu.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
