@@ -19,8 +19,8 @@ Dias      | Descrição
 **46-50** | Site de Moda
 **51-55** | Blog
 **56-60** | Loja Online
-**61-65** | Site Currículo
-**66-67** | Página 404
+**61-65** | ~~Site Currículo~~
+**66-67** | ~~Página 404~~
 **68-70** | Site de Agência Digital
 **71-75** | Refazer pelo menos 02 projetos anteriores utilizando Twitter Bootstrap
 **76-80** | Aprender um pouco sobre pré-processadores CSS.
@@ -82,5 +82,8 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **041** | Retomei o projeto do meu portfolio. Ainda estou trabalhando na versão mobile do site. Acrescentei um menu responsivo. Ele funciona bem no Chrome, mas dá erro no Firefox.
 **042** | Problema com navegadores resolvido. Também consegui ajustar o layout para desktop e tablet. Falta apenas uma página para concluir. Espero colocar no ar até o final de semana!
 **043** | Tentei criar um slideshow para uma das páginas do portfólio, mas não deu muito certo. E fiz alguns ajustes na cores do menu.
+**044** | Minha curiosidade me levou a mexer um pouco no NodeJS nesse dia. Estou tentando focar no Front-End este round, mas me pego futricando no Back-End.
+**045** | Hoje decidi experimentar a plataforma de desafios @frontendmentor. É voltada para #FrontEnd. Achei a ideia muito legal! Eles te dão um design e você tenta implementar o mais parecido possível. Quando eu terminar, conto mais!
+**046** | Fiz mais uma parte do desafio da Front-End Mentor e acabei o dia aprendendo num cursinho de MongoDB. Desisti de tentar entender.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
