@@ -23,7 +23,7 @@ Dias      | Descrição
 **66-67** | ~~Página 404~~
 **68-70** | Site de Agência Digital
 **71-75** | Refazer pelo menos 02 projetos anteriores utilizando Twitter Bootstrap
-**76-80** | Aprender um pouco sobre pré-processadores CSS.
+**76-80** | ~~Aprender um pouco sobre pré-processadores CSS.~~
 **81-90** | Gerenciamento de dependências para front-end
 **91-100**| Validação de Formulários com JavaScript.
 
