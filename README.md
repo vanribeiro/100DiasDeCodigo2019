@@ -85,5 +85,6 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **044** | Minha curiosidade me levou a mexer um pouco no NodeJS nesse dia. Estou tentando focar no Front-End este round, mas me pego futricando no Back-End.
 **045** | Hoje decidi experimentar a plataforma de desafios @frontendmentor. É voltada para #FrontEnd. Achei a ideia muito legal! Eles te dão um design e você tenta implementar o mais parecido possível. Quando eu terminar, conto mais!
 **046** | Fiz mais uma parte do desafio da Front-End Mentor e acabei o dia aprendendo num cursinho de MongoDB. Desisti de tentar entender.
+**047** | Aprendi um pouco mais sobre Ajax. Das 03 formas que vi num cursinho da Udacity(XHR, jQuery e Fetch), eu fico com a XHR2... Mas ainda quero aprender mais sobre a Fetch API. Também baixei o #Sass. Quero aprender um pouco sobre pré processadores CSS.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
