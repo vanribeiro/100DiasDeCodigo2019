@@ -1,0 +1,21 @@
+.panel {
+  color: #8e44ad;
+}
+
+.nav-bar {
+  color: #444444;
+}
+.nav-bar ul {
+  list-style: none;
+}
+.nav-bar li {
+  margin-left: 0;
+  padding-left: 0;
+  height: 50px;
+  background-color: green;
+}
+.nav-bar a {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=app.css.map */

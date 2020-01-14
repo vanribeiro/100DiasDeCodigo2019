@@ -1,0 +1,27 @@
+$colorPurple: #8e44ad;
+$colorDarkGray: #444444;
+$green: green;
+
+.panel{
+    color: $colorPurple;
+}
+
+.nav-bar{
+    color: $colorDarkGray;
+
+    ul{
+        list-style: none;
+    }
+
+    li{
+        margin-left: 0;
+        padding-left: 0;
+        height: 50px;
+        background-color: $green;
+    }
+
+    a{
+        text-decoration: none;
+        
+    }
+}
