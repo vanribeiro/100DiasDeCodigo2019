@@ -8,7 +8,7 @@
 
 Dias      | Descrição
 :--------:|---------
-**01-10** | Revisão básica de HTML e CSS. Vou fazer isso, recriando meu site portfólio.
+**01-10** | ~~Revisão básica de HTML e CSS.~~ Vou fazer isso, recriando meu site portfólio.
 **11-15** | Site de Convite de Casamento
 **16-20** | Site de Atração Turística
 **21-25** | Site de Produto
