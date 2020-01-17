@@ -1,0 +1,2 @@
+var stars = ['SIRIUS', 'LALANDE', 'PROCION', 'ALPHA', 'CENTAURI', 'BARNARD'];
+
