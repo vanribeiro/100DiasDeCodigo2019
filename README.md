@@ -88,6 +88,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **047** | Aprendi um pouco mais sobre Ajax. Das 03 formas que vi num cursinho da Udacity(XHR, jQuery e Fetch), eu fico com a XHR2... Mas ainda quero aprender mais sobre a Fetch API. Também baixei o #Sass. Quero aprender um pouco sobre pré processadores CSS.
 **048** | Apenas fiz alguns desafios de JavaScript do Hacker Rank.
 **049** | Trabalhei um pouco com consumo de API. Criei uma página simples que busca o endereço, utilizando o CEP digitado. (Ela consome a API Via CEP.) Numa versão futura, quero criar a possibilidade da busca por nome de rua, cidade e estado.
-**050** | Comecei ver RegEx no JavScript.
+**050** | Comecei a ver RegEx no JavaScript e fiz um desafio sobre isso no @hackerrank.
+**051** | Fiz mais alguns desafios do @hackerrank. Estou tentando terminar o desafio "10 dias de JavaScript".
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
