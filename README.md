@@ -91,5 +91,6 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **050** | Comecei a ver RegEx no JavaScript e fiz um desafio sobre isso no @hackerrank.
 **051** | Fiz mais alguns desafios do @hackerrank. Estou tentando terminar o desafio "10 dias de JavaScript".
 **052** | Desafio "10 dias de JavaScript" do @hackerrank terminado. Precisei de ajuda do fórum para conseguir terminar essa saga.
+**053** | Voltei a trabalhar na página do meu site portfólio. Decidi fazer um Grid de fotos com os meus projetos.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
