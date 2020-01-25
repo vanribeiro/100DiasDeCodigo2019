@@ -43,3 +43,6 @@ function draw_b() {
     context.strokeStyle = "#000";
     context.stroke();
 }
+
+
+window.load = draw_b();
