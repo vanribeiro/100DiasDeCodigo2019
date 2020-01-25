@@ -92,6 +92,9 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **051** | Fiz mais alguns desafios do @hackerrank. Estou tentando terminar o desafio "10 dias de JavaScript".
 **052** | Desafio "10 dias de JavaScript" do @hackerrank terminado. Precisei de ajuda do fórum para conseguir terminar essa saga.
 **053** | Voltei a trabalhar na página do meu site portfólio. Decidi fazer um Grid de fotos com os meus projetos.
-**054** | Página portfolio concluída!
+**054** | Página portfolio concluída! Ainda que fazer mais algumas mudanças, mas está pronta!
+**055** | Fiz alguns ajustes na minha página e corrigi alguns erros. Criei um branch separado para testar novas features que quero acrescentar.
+**056** | Mais alguns ajustes no meu portfólio. Quase "deu ruim" no meu repositório com branch separado. 
+Como o site está ok! Vou deixar ele de molho alguns dias para concluir alguns projetinhos! 
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
