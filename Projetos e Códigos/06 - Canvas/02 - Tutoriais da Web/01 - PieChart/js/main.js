@@ -1,8 +1,10 @@
 function pieChart() {  
     let canvas = document.getElementById('canvas');
     let context = canvas.getContext('2d');
+    let status = document.getElementById('status');
 
     let days = 57;
+    status.textContent = days;
     let axisX = canvas.width/2;
     let axisY = canvas.height/2;
     let radius = 100;
