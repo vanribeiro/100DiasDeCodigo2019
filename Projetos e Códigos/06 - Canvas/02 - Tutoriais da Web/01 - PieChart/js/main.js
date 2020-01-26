@@ -14,13 +14,10 @@ function pieChart() {
     context.stroke();
 
     context.beginPath();
-    context.arc(axisX, axisY, radius, Math.PI * (-days/100), days/100 * Math.PI);
+    context.arc(axisX, axisY, radius, Math.PI * 0, ((days/100)*2) * Math.PI);
     context.lineWidth = 50;
     context.strokeStyle = '#B56A7A';
     context.stroke();
-
-    context.font = '20px Impact'
-    context.fillStyle = '#ebebeb';
 }
 
 window.onload = pieChart();
