@@ -96,6 +96,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **055** | Fiz alguns ajustes na minha página e corrigi alguns erros. Criei um branch separado para testar novas features que quero acrescentar.
 **056** | Mais alguns ajustes no meu portfólio. Quase "deu ruim" no meu repositório com branch separado. Como o site está ok! Vou deixar ele de molho alguns dias para concluir alguns projetinhos!
 **057** | Tive uma idea para algo e para isso precisava de um gráfico. Aprendi a fazer um gráfico de pizza e adaptei para o que eu queria. Com isso, aprendi um pouco mais sobre Canvas.
-**058**| Tentei terminar o desafio do FrontEnd Mentor, mas ainda não consegui. 
+**058**| Tentei terminar o desafio do FrontEnd Mentor, mas ainda não consegui.
+**059**| Desafio [Pricing Component With Toggle](https://vanribeiro.github.io/portfolio-pages/projects/frontend/pricing-component-with-toggle/) concluído. Ainda não está legal, mas está terminado. Infelizmente, não consegui resolver só com HTML e CSS. Precisei de algumas linhas de JavaScript.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
