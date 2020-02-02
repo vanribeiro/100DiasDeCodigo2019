@@ -99,5 +99,8 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **058**| Tentei terminar o desafio do FrontEnd Mentor, mas ainda não consegui.
 **059**| Desafio [Pricing Component With Toggle](https://vanribeiro.github.io/portfolio-pages/projects/frontend/pricing-component-with-toggle/) concluído. Ainda não está legal, mas está terminado. Infelizmente, não consegui resolver só com HTML e CSS. Precisei de algumas linhas de JavaScript.
 **060**| Começando um novo desafio do [FrontEnd Mentor](https://www.frontendmentor.io).
+**061**| Continuando o desafio de ontem: como preciso validar o e-mail,  decidi começar a usar teste unitários. Por enquanto, estou usando o Mocha e o Chai, mas também quero tentar o Jasmine mais para frente.
+**062**| Não foi um dia muito produtivo. Eu só escrevi os testes do meu código, usando Chai e  Mocha.
+**063**| Escrevi a função que válida o e-mail. O #Mocha passou meus testes. Mas ainda não consigo rodar algumas customizações como mensagem de retorno, por exemplo.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
