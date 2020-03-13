@@ -103,5 +103,14 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **062**| Não foi um dia muito produtivo. Eu só escrevi os testes do meu código, usando Chai e  Mocha.
 **063**| Escrevi a função que válida o e-mail. O Mocha passou meus testes. Mas ainda não consigo rodar algumas customizações como mensagem de retorno, por exemplo.
 **064**| Desafio do Front-End Mentor Terminado! Você ver o site preview [aqui](https://vanribeiro.github.io/portfolio-pages/projects/frontend/base-apparel-coming-soon-master/), o código [aqui](https://github.com/vanribeiro/base-apparel-coming-soon-master) e a proposta original do desafio [aqui](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0);
+**065**| 01. Comecei outro desafio de FrontEnd Mentor junto com um grupo de estudos online. 02. Por enquanto, estou amando SASS. 03. Instalei o commitizen. Que Deus me ajude! Estou querendo instalar o Husky .
+**066**|01. Continuo no desafio do FrontEnd Mentor. Estou apanhando de um menu responsivo. 02. Ainda não instalei o Husky.
+**067**| 01. Continuo no desafio do FrontEnd Mentor. Abandonei o menu responsivo por un tempo. 02. Estou com problema para fazer alguns ajustes no background da capa. 03. Por enquanto, deixei o Husky para lá.
+**068**| Continuação do dia 067.
+**069**| Estou bem atrasada no desafio! Mas sigo tentando! 01. Continuo no desafio do FrontEnd Mentor. 02. Minha versão para desktop está dando erros. 03. Esse desafio está me deixando louca... 
+**070**| Deixei o desafio FrontEnd Mentor que eu estava trabalhando por um tempo. Para desfocar um pouco do problema que eu não estava conseguindo resolver, fiz outro desafio da mesma plataforma: link na bio.
+**071**| Continuação do dia 070.
+**072**| Comecei outro desafio da plataforma FrontEnd Mentor. Pelo que entendi, é uma landing page para divulgar uma extensão para navegadores que gerência sites favoritos. Hoje comecei a marcação da página.
+**073**| Terminei a marcação da página.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
