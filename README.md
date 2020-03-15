@@ -112,5 +112,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **071**| Continuação do dia 070.
 **072**| Comecei outro desafio da plataforma FrontEnd Mentor. Pelo que entendi, é uma landing page para divulgar uma extensão para navegadores que gerência sites favoritos. Hoje comecei a marcação da página.
 **073**| Terminei a marcação da página.
+**074**| Seguindo o desafio, comecei a estilização! A página já está ficando com uma carinha bonitinha... Estou tentando modularizar um pouco mais o CSS com SASS.
+**075**| Dei uma pausa no desafio atual, pois decidi voltar a bloggar e tirei esse tempo para aprender um pouco sobre como usar e costumizar o Jekyll. Quero usá-lo para gerar os posts do blog. 
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
