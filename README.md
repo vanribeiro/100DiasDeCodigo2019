@@ -114,5 +114,6 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **073**| Terminei a marcação da página.
 **074**| Seguindo o desafio, comecei a estilização! A página já está ficando com uma carinha bonitinha... Estou tentando modularizar um pouco mais o CSS com SASS.
 **075**| Dei uma pausa no desafio atual, pois decidi voltar a bloggar e tirei esse tempo para aprender um pouco sobre como usar e costumizar o Jekyll. Quero usá-lo para gerar os posts do blog. 
+**076**| Tentando uma sugestão que recebi pelo Twitter: usar Hugo no lugar de Jekyll para geração de páginas estáticas. Achei a ferramenta bem legal. Simples e precisa de menos configuração que o Jekyll. Estou tentando descobrir como posso customizar o CSS do tema que estou usando.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
