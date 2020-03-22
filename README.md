@@ -116,5 +116,8 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **075**| Dei uma pausa no desafio atual, pois decidi voltar a bloggar e tirei esse tempo para aprender um pouco sobre como usar e costumizar o Jekyll. Quero usá-lo para gerar os posts do blog. 
 **076**| Tentando uma sugestão que recebi pelo Twitter: usar Hugo no lugar de Jekyll para geração de páginas estáticas. Achei a ferramenta bem legal. Simples e precisa de menos configuração que o Jekyll. Estou tentando descobrir como posso customizar o CSS do tema que estou usando.
 **077**| Testei outro tema do Hugo. Por algum motivo não estou conseguindo exibir imagens no post. E ainda não consegui customizar CSS.
+**078**| Agora estou conseguindo personalizar o #CSS do #GoHugo, mas continuo tendo problemas com as imagens. Ela não aparecem...
+**079**| Trabalhei mais um pouco no estilização do blog.
+**080**| Blog usando Hugo quase todo customizado. Agora é começar a escrever e postar. Infelizmente, ainda não consigo postar imagens. Vou precisar hospedá-las em algum lugar até conseguir arrumar.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
