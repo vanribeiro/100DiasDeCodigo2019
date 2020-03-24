@@ -119,5 +119,7 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **078**| Agora estou conseguindo personalizar o #CSS do #GoHugo, mas continuo tendo problemas com as imagens. Ela não aparecem...
 **079**| Trabalhei mais um pouco no estilização do blog.
 **080**| Blog usando Hugo quase todo customizado. Agora é começar a escrever e postar. Infelizmente, ainda não consigo postar imagens. Vou precisar hospedá-las em algum lugar até conseguir arrumar.
+**081**| Criei uma página 404.html para o meu blog. Ainda precisa de ajustes, mas funciona!
+**082**| Com uma super ajuda, as imagens agora renderizam no post. Também adicionei botões para compartihamento nas redes sociais. Super recomendo [esse site](https://www.addtoany.com/) para isso.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
