@@ -122,5 +122,9 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **081**| Criei uma página 404.html para o meu blog. Ainda precisa de ajustes, mas funciona!
 **082**| Com uma super ajuda, as imagens agora renderizam no post. Também adicionei botões para compartihamento nas redes sociais. Super recomendo [esse site](https://www.addtoany.com/) para isso.
 **083**| Para participar de um projeto, decidi começar a semana OmniStack da RocketSeat. Como comecei com um dia de atraso, coloquei foco nisso hoje para ficar em dia com as aulas.
+**084**| Ainda sobre a semana OmniStack: tive alguns problemas, mas já foi resolvido!
+**085**| Continuando o dia 3 da semana OmniStack.
+**086**| Finalmente terminei o dia 03. Comecei a baixar o Expo para começar a aplicação mobile. Se quiser dar uma olhada, [esse é o meu repositório da OmniStack 11.0](https://github.com/vanribeiro/semana-omnistack-11).
+
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
