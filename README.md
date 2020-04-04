@@ -124,7 +124,12 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **083**| Para participar de um projeto, decidi começar a semana OmniStack da RocketSeat. Como comecei com um dia de atraso, coloquei foco nisso hoje para ficar em dia com as aulas.
 **084**| Ainda sobre a semana OmniStack: tive alguns problemas, mas já foi resolvido!
 **085**| Continuando o dia 3 da semana OmniStack.
-**086**| Finalmente terminei o dia 03. Comecei a baixar o Expo para começar a aplicação mobile.  Se quiser dar uma olhada, [esse é o meu repositório da OmniStack 11.0](https://github.com/vanribeiro/semana-omnistack-11). E desenhei o símbolo do react com HTML e CSS.
-
+**086**| Finalmente terminei o dia 03. Comecei a baixar o Expo para começar a aplicação mobile. Se quiser dar uma olhada, [esse é o meu repositório da OmniStack 11.0](https://github.com/vanribeiro/semana-omnistack-11). E desenhei o símbolo do react com HTML e CSS.
+**087**| Fiz mais algumas correções no projeto da semana OminiStack.
+**088**| Aprendi um pouco sobre validação de formulário e testes de integração.
+**089**| Comecei a contribuir com código em projeto Open Source.
+**090**| Contribuindo com código em projeto Open Source.
+**091**| Contribuindo com código em projeto Open Source.
+**092**| Contribuindo com código em projeto Open Source. E aprendendo ReactJS.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
