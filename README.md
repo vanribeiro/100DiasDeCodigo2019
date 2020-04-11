@@ -31,7 +31,7 @@ Sei que alguns sites podem ser feitos em um dia e outros podem demorar um pouco 
 
 Até porque pretendo trabalhar conceitos como mobile first e web design responsivo.
 
-Nesse período, também planejo retomar um curso de JavaScrip que estava parado. Pretendo fazê-lo 02 vezes por semana, até concluí-lo.
+Nesse período, também planejo retomar um curso de JavaScript que estava parado. Pretendo fazê-lo 02 vezes por semana, até concluí-lo.
 
 (Planos sujeitos a alterações e de acordo com a necessidade).
 
@@ -131,5 +131,8 @@ Nesse período, também planejo retomar um curso de JavaScrip que estava parado.
 **090**| Contribuindo com código em projeto Open Source.
 **091**| Contribuindo com código em projeto Open Source.
 **092**| Contribuindo com código em projeto Open Source. E aprendendo ReactJS.
+**093**| Contribuindo com código em projeto Open Source. E, para aprender mais sobre ReactJS, estou fazendo mais um desafio do FrontEnd Mentor.
+**094**| Continuo contribuindo nos projetos dos dias anteriores.
+**095**| Continuo contribuindo nos projetos dos dias anteriores.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
