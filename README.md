@@ -135,5 +135,6 @@ Nesse período, também planejo retomar um curso de JavaScript que estava parado
 **094**| Continuo contribuindo nos projetos dos dias anteriores.
 **095**| Continuo contribuindo nos projetos dos dias anteriores.
 **096**| Para o projeto do FrontEnd Mentor, sobre Swticher Theme, estou pensando em utilizar o padrão de projeto State. Espero que dê certo!
+**097**| Consegui implementar o padrão state num protótipo. Espero que funcione no projeto de Switcher Theme.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
