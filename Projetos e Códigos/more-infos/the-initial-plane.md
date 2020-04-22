@@ -28,3 +28,7 @@ Até porque pretendo trabalhar conceitos como mobile first e web design responsi
 Nesse período, também planejo retomar um curso de JavaScript que estava parado. Pretendo fazê-lo 02 vezes por semana, até concluí-lo.
 
 (Planos sujeitos a alterações e de acordo com a necessidade).
+
+## Observação:
+
+~~concluído~~ - itens que aparecem como tachado(~~simples~~), da tabela acima, significam que consegui realizar aquilo durante esse _round_.

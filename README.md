@@ -3,7 +3,8 @@
 **Ínicio:** 14/11/2019
 
 **Termínio:** 21/02/2020 (_Previsão de termino._)
-O que eu planejei para esses 100 dias de código pode ser lido [aqui](Projetos%20e%20Códigos/more-infos/the-initial-plane.md). Mas isso foi o que de fato aconteceu:
+
+O que eu planejei para esses 100 dias de código pode ser lido [aqui](Projetos%20e%20Códigos/more-infos/the-initial-plane.md), mas isso foi o que de fato aconteceu:
 
 ## Atualizações:
 
