@@ -3,37 +3,7 @@
 **Ínicio:** 14/11/2019
 
 **Termínio:** 21/02/2020 (_Previsão de termino._)
-
-## Planejamento:
-
-Dias      | Descrição
-:--------:|---------
-**01-10** | ~~Revisão básica de HTML e CSS.~~ ~~Vou fazer isso, recriando meu site portfólio.~~
-**11-15** | Site de Convite de Casamento
-**16-20** | Site de Atração Turística
-**21-25** | Site de Produto
-**26-30** | Menu de Restaurante
-**31-35** | Site de Estréia de Filme
-**36-40** | Site de Livro/Autor
-**41-45** | Site de Fã de Celebridade
-**46-50** | Site de Moda
-**51-55** | Blog
-**56-60** | Loja Online
-**61-65** | ~~Site Currículo~~
-**66-67** | ~~Página 404~~
-**68-70** | Site de Agência Digital
-**71-75** | Refazer pelo menos 02 projetos anteriores utilizando Twitter Bootstrap
-**76-80** | ~~Aprender um pouco sobre pré-processadores CSS.~~
-**81-90** | Gerenciamento de dependências para front-end
-**91-100**| Validação de Formulários com JavaScript.
-
-Sei que alguns sites podem ser feitos em um dia e outros podem demorar um pouco mais. Então, planejei trabalhar de forma mais tranquila.
-
-Até porque pretendo trabalhar conceitos como mobile first e web design responsivo.
-
-Nesse período, também planejo retomar um curso de JavaScript que estava parado. Pretendo fazê-lo 02 vezes por semana, até concluí-lo.
-
-(Planos sujeitos a alterações e de acordo com a necessidade).
+O que eu planejei para esses 100 dias de código pode ser lido [aqui](Projetos%20e%20Códigos/more-infos/the-initial-plane.md). Mas isso foi o que de fato aconteceu:
 
 ## Atualizações:
 
@@ -135,6 +105,23 @@ Nesse período, também planejo retomar um curso de JavaScript que estava parado
 **094**| Continuo contribuindo nos projetos dos dias anteriores.
 **095**| Continuo contribuindo nos projetos dos dias anteriores.
 **096**| Para o projeto do FrontEnd Mentor, sobre Swticher Theme, estou pensando em utilizar o padrão de projeto State. Espero que dê certo!
-**097**| Consegui implementar o padrão state num protótipo. Espero que funcione no projeto de Switcher Theme.
+**097**| Consegui implementar o padrão State num protótipo. Espero que funcione no projeto de Switcher Theme.
+**098**| Resolvi deixar o padrão de projeto State para lá e usar algo do próprio ReactJS, `useState()`, que para mim é implmentação do padrão State. Estou tentando algumas coisas novas.
+**099**| Estou com dificuldades para entender como o `state` do React funciona e como fazer com que um componente mude os estados dos demais, pois é isso que o `Switcher Theme` deveria fazer.
+
+
+## Coisas legais que aprendi/fiz nesses 100 Dias:
+
+- Terminei os 10 dias de JavaScript do Hacker Rank, que tinha abandonado no começo de 2019.
+- Aprendi um pouco sobre SASS e node-SASS
+- Aprendi a usar novas Tags do HTML5
+- Aprendi novas features do CSS3.
+- Aprendi um pouco sobre ReactJS.
+- Aprendi um pouco sobre o padrão de Projeto State.
+- Aprendi um pouco sobre JavaScript OOP.
+- Aprendi um pouco sobre como consumir APIs
+- Aprendi um pouco sobre Ajax.
+- Aprendi um pouquinho sobre ES6.
+- Comecei a colaborar em alguns projetos Open Source.
 
 **Observação:** Pausa longa dos dias 24/12 a 27/12/2019 por motivos de bugs no teclado do notebook e as festas de fim de ano. Sim! Precisei restaurar o Sistema Operacional e configurar novamente meu ambiente de programação.
