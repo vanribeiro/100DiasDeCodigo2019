@@ -6,7 +6,7 @@ _Previsão de termino:_ 21/02/2020
 
 **Concluído:** 23/04/2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPn9m1jq678" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![concluído - sem dias de código](Projetos%20e%20Códigos/more-infos/video/concluido-100-dias-de-codigo.gif)
 
 O que eu planejei para esses 100 dias de código pode ser lido [aqui](Projetos%20e%20Códigos/more-infos/the-initial-plane.md), mas isso foi o que de fato aconteceu:
 
