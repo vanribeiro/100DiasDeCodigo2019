@@ -1,12 +1,16 @@
-# 100 Dias de Código - 2019 (Round 02)
+# 100 Dias de Código - 2019 (Round 02) ✅
 
 **Ínicio:** 14/11/2019
 
-**Termínio:** 21/02/2020 (_Previsão de termino._)
+_Previsão de termino:_ 21/02/2020 
+
+**Concluído:** 23/04/2020
+
+<video scr="Projetos%e%Códigos/more-infos/video/concluido-100-dias-de-codigo.mp4" width="320" height="240" controls preload="none"></video>
 
 O que eu planejei para esses 100 dias de código pode ser lido [aqui](Projetos%20e%20Códigos/more-infos/the-initial-plane.md), mas isso foi o que de fato aconteceu:
 
-## Atualizações:
+## Realizado:
 
 **Dia** | **Histórico**
 :------:|--------------
