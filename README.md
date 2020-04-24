@@ -109,7 +109,7 @@ O que eu planejei para esses 100 dias de código pode ser lido [aqui](Projetos%2
 **097**| Consegui implementar o padrão State num protótipo. Espero que funcione no projeto de Switcher Theme.
 **098**| Resolvi deixar o padrão de projeto State para lá e usar algo do próprio ReactJS, `useState()`, que para mim é implmentação do padrão State. Estou tentando algumas coisas novas.
 **099**| Estou com dificuldades para entender como o `state` do React funciona e como fazer com que um componente mude os estados dos demais, pois é isso que o `Switcher Theme` deveria fazer.
-
+**100**| Nesse último dia, aprendi a fazer uma modal(código disponível [aqui](Projetos%20e%20Códigos/08%20-%20Modal/).  Foi um tempo incrível! Aprendi coisas muito legais nesses 100 dias!
 
 ## Coisas legais que aprendi/fiz nesses 100 Dias:
 
