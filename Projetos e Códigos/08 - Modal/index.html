@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Modal</title>
+</head>
+<body>
+    <header class="container">
+        <button id="open-modal">Abrir Modal</button>
+        <p>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
+    </header>
+    <!--
+        Usei esse tutorial como base:
+        https://www.w3schools.com/howto/howto_css_modals.asp
+    -->
+    <main>
+        <div id="modal-window" class="modal">
+            <div class="modal-content ">
+                    <header class="modal-header">
+                        <h2>#100DiasDeCódigo</h2>
+                        <span class="close" id="close-modal">&times;</span>
+                    </header>
+                    <main class="modal-body">
+                        <img class="medal" src="img/medal.svg" alt="terminamos">
+                        <div class="text">
+                            <h2>Concluído!</h2>
+                        <span>23/04/2020</span>
+                        </div>
+                    </main>
+                    <footer class="modal-footer">
+                        coded by<a href="#"> @vanribeiro.dev</a>
+                    </footer>
+                </div>
+        </div>
+    </main>
+    
+    <script src="main.js"></script>
+</body>
+</html>

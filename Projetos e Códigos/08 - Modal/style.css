@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-size: 0.875em;
+}
+
+button{
+    color: #efefef;
+    background-color: #b56a7a;
+    border: none;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+    box-shadow: 2px 2px 5px #000000;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+a{
+    color: #b56a7a;
+    font-weight: bold;
+}
+
+.modal{
+    display: none;
+    background-color: #000000a9;
+    width: 100vw;
+    height: 100vh;
+    color: #595959;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;    
+    border: 1px solid gray;
+}
+
+.modal-header{
+    text-transform: uppercase;
+    background-color: #444444;
+    color: #b56a7a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+    font-size: 1em;
+}
+
+.modal-content{
+    color: #444444;
+}
+
+.medal{
+    max-width: 40%;
+}
+
+.modal-body h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: #24a733;
+
+}
+
+.modal-content{
+    margin-top: 25%;
+    transform: translateY(25%);
+    position: relative;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    animation-name: enter-modal;
+    animation-duration: 0.4s;
+}
+
+@keyframes enter-modal{
+    from{
+        top: -300px;
+        opacity: 0;
+    }
+    to{
+        top: 0;
+        opacity: 1;
+    }
+}
+
+.modal-body{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.text{
+    width: 50%;
+}
+
+.modal-body, .modal-footer{
+    background-color: #efefef;
+}
+
+.modal-body, .modal-header, .modal-footer{
+    padding: 20px;
+}
+
+.modal-body, .modal-footer, .modal-footer a{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.modal-footer{
+    text-align: center;
+}
+
+.modal-footer a{
+    color: #b56a7a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.close{
+    float: right;
+    color: #efefef;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.close:hover,
+.close:focus{
+    color: #858585;
+    text-decoration: none;
+    cursor: pointer;
+}
